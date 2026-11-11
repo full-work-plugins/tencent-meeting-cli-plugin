@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "tencent-meeting-cli",
+    "description": "Use the local Tencent Meeting CLI for OAuth2 authentication, meetings, recordings, and attendee reports."
+  }
+}

@@ -1,0 +1,3 @@
+- insert:
+    - id: tencent-meeting-cli-plugin
+      name: 'tencent-meeting-cli'
